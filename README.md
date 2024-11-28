@@ -30,8 +30,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/lakshita-kalyan/
 
+<!--
 <p><img src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Flakshita-kalyan%2F"/></p>
+-->
 
 <p align="left">
 </p>
